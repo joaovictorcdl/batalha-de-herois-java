@@ -1,22 +1,23 @@
-<<<<<<< HEAD
-## Getting Started
+# Batalha de Heróis
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Simulador de batalhas entre heróis e vilões, desenvolvido em Java como projeto acadêmico da disciplina de Linguagem de Programação.
 
-## Folder Structure
+## Funcionalidades
 
-The workspace contains two folders by default, where:
+- Cadastro de personagens.
+- Listagem de personagens cadastrados.
+- Seleção de heróis e vilões.
+- Simulação de batalhas por rounds.
+- Sistema de combate com ataque e defesa.
+- Identificação do vencedor.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Tecnologias e conceitos
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java 21+
+- Programação Orientada a Objetos (POO).
+- Herança e sobrescrita.
+- Padrão arquitetural MVC.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Execução
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-=======
-# batalha-de-herois-java
->>>>>>> origin/main
+Execute a classe `Main.java` para iniciar o simulador pelo terminal.
